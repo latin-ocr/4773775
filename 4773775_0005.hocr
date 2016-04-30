@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4773775_0005.png"; bbox 0 0 3500 4497; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 0 3500 50">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 0 3500 50">
+     <span class='ocr_line' id='line_1_1' title="bbox 112 0 3500 50; baseline 0.028 -79"><span class='ocrx_word' id='word_1_1' title='bbox 112 0 3500 50; x_wconf 15' lang='lat'>⁷*—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 229 222 905 332">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 229 222 905 332">
+     <span class='ocr_line' id='line_1_2' title="bbox 229 222 905 332; baseline 0.015 -27"><span class='ocrx_word' id='word_1_2' title='bbox 229 222 905 332; x_wconf 71' lang='lat' dir='ltr'><strong>irregularities</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 226 429 2395 687">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 226 429 2395 687">
+     <span class='ocr_line' id='line_1_3' title="bbox 226 429 934 521; baseline 0.014 -10"><span class='ocrx_word' id='word_1_3' title='bbox 226 429 391 513; x_wconf 90' lang='grc' dir='ltr'>ΜΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 430 432 934 521; x_wconf 86' lang='grc'><strong>00-278.38</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 226 555 2395 687; baseline 0.012 -48"><span class='ocrx_word' id='word_1_5' title='bbox 226 555 362 641; x_wconf 85' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_6' title='bbox 400 557 990 668; x_wconf 70' lang='lat' dir='ltr'>Protagorae</span> <span class='ocrx_word' id='word_1_7' title='bbox 1025 568 1549 673; x_wconf 79' lang='lat' dir='ltr'><strong>sophistae</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1582 578 1772 662; x_wconf 83' lang='lat' dir='ltr'><strong>vita</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1809 580 2395 687; x_wconf 80' lang='lat' dir='ltr'><strong>disquisitio.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 221 755 822 838">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 221 755 822 838">
+     <span class='ocr_line' id='line_1_5' title="bbox 221 755 822 838; baseline 0.012 -22"><span class='ocrx_word' id='word_1_10' title='bbox 221 755 556 835; x_wconf 69' lang='lat' dir='ltr'>Damaqed</span> <span class='ocrx_word' id='word_1_11' title='bbox 587 760 822 838; x_wconf 69' lang='lat' dir='ltr'>Pages:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 219 938 463 1015">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 219 938 463 1015">
+     <span class='ocr_line' id='line_1_6' title="bbox 219 938 463 1015; baseline 0.016 -19"><span class='ocrx_word' id='word_1_12' title='bbox 219 938 397 1015; x_wconf 67' lang='lat' dir='ltr'>page</span> <span class='ocrx_word' id='word_1_13' title='bbox 423 941 463 1000; x_wconf 88' lang='lat'>8</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
